@@ -1,29 +1,35 @@
-# vue-game
+# Game of Tic Tac Toe 🌸
 
-This template should help get you started developing with Vue 3 in Vite.
+Just a simple game of tic tac toe made using [vue](https://github.com/vuejs), [tailwind](https://github.com/tailwindlabs/tailwindcss) and [javascript](https://www.javascript.com) <br>
+This does have an AI opponent so u can play it alone..
 
-## Recommended IDE Setup
+## Cloning the Repository
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+To get started, clone the repository using the following command:
 
 ```sh
-npm install
+git clone https://github.com/Falkern/vue-game.git
+cd vue-game
 ```
 
-### Compile and Hot-Reload for Development
+### Running the Project
 
-```sh
-npm run dev
-```
+After cloning the repository, follow these steps to run the project:
 
-### Compile and Minify for Production
+1. Install the dependencies:
 
-```sh
-npm run build
-```
+    ```sh
+    npm install
+    ```
+
+2. Compile and hot-reload for development:
+
+    ```sh
+    npm run dev
+    ```
+
+3. Compile and minify for production:
+
+    ```sh
+    npm run build
+    ```
